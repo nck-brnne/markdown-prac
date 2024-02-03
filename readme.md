@@ -40,7 +40,7 @@ COZY CUP CAFE House website project aims to provide an online platform for coffe
 
 
 ## About the Authors
-<img src="(https://avatars.githubusercontent.com/u/132065844?v=4)" alt="Your Name" width="150" style="border-radius: 50%">
+<img src="(https://avatars.githubusercontent.com/u/132065844?v=4)" style=" width: 150px; border-radius: 50%;">
 
 **Name:** Martinez, Nick Brienne 
 
